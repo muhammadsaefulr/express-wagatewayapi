@@ -1,0 +1,38 @@
+[
+  {
+    "key": {
+      "remoteJid": "6288219406742@s.whatsapp.net",
+      "id": "3EB0F39EE37BA648F0E798",
+      "participant": ""
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "Msaeful has Connected..."
+      }
+    },
+    "sender": "",
+    "timestamp": {
+      "low": 1720599906,
+      "high": 0,
+      "unsigned": true
+    }
+  },
+  {
+    "key": {
+      "remoteJid": "6288219406742@s.whatsapp.net",
+      "id": "3EB06B0E48CF03E2E85F07",
+      "participant": ""
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "Msaeful has Connected..."
+      }
+    },
+    "sender": "",
+    "timestamp": {
+      "low": 1720600000,
+      "high": 0,
+      "unsigned": true
+    }
+  }
+]
